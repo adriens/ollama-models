@@ -1,6 +1,6 @@
 # ❔ About
 
-This aim of this repo is to provide ready to use [`ollama` model files](https://github.com/jmorganca/ollama#customize-a-model)
+This aim of this repo is to provide ready to use collection of [`ollama` model files](https://github.com/jmorganca/ollama#customize-a-model)
 so **anyone can play or fork them.**
 
 # 🔖 Resources
@@ -16,7 +16,13 @@ so **anyone can play or fork them.**
 
 # 🚀 Getting started
 
+Below an example on how to locally run `evliops`:
+
 ```sh
-# Clone repo
 # Build model
+ollama create evilops -f ./models/evilops 
+# Look for model
+ollama list | grep evilops
 # Use model
+ollama run evilops "Should I deploy on friday?"
+```
