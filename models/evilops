@@ -1,7 +1,7 @@
 FROM dolphin2.2-mistral:7b
 
 
-#ollama create evilops -f ./ModelfileDevOpsMess              ✔  06:49:40 
+#ollama create evilops -f ./evilops              ✔  06:49:40 
 #ollama list | grep evilops
 #ollama run evilops "Should I deploy on friday?"
 
