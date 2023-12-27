@@ -1,6 +1,6 @@
 # ❔ About
 
-This aim of this repo is to provide ready to use [`ollama` model files](https://github.com/jmorganca/ollama#customize-a-model)https://github.com/jmorganca/ollama#customize-a-model
+This aim of this repo is to provide ready to use [`ollama` model files](https://github.com/jmorganca/ollama#customize-a-model)
 so **anyone can play or fork them.**
 
 # 🔖 Resources
