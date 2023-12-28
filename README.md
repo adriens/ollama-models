@@ -5,8 +5,8 @@ so **anyone can play or fork them.**
 
 # 🔖 Resources
 
-- [:octocat: `ollama`](https://github.com/jmorganca/ollama)https://github.com/jmorganca/ollama
-- [🦙 `ollama` models library](https://ollama.ai/library)https://ollama.ai/library
+- [:octocat: `ollama`](https://github.com/jmorganca/ollama)
+- [🦙 `ollama` models library](https://ollama.ai/library)
 
 # 💭  Famous quotes
 
