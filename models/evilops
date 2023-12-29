@@ -1,4 +1,4 @@
-FROM dolphin2.2-mistral:7b
+FROM dolphin-mistral:v2.6
 
 
 #ollama create evilops -f ./evilops              ✔  06:49:40 
