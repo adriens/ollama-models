@@ -7,6 +7,10 @@ so **anyone can play or fork them.**
 
 - [:octocat: `ollama`](https://github.com/jmorganca/ollama)
 - [🦙 `ollama` models library](https://ollama.ai/library)
+- [`ehartford/dolphin-system-messages`](https://github.com/ehartford/dolphin-system-messages)
+- https://github.com/ehartford/dolphin-system-messages/issues/1
+
+
 
 # 💭  Famous quotes
 
