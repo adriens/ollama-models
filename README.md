@@ -14,9 +14,12 @@ so **anyone can play or fork them.**
 
 # 💭  Famous quotes
 
-## `evilops`
+## :trollface:`evilops`
 
 > "Deploying on a Friday is the epitome of irresponsibility and laziness."
+
+> ["It's like playing a game of Russian Roulette with a machine gun.[...] Drop that worthless table and create a new one with the primary key as an integer. [...]
+Always remember, buddy: DBA rules the world! Or at least the database. 😂🐾 "](https://dev.to/adriens/comment/2cc91)
 
 # 🚀 Getting started
 
